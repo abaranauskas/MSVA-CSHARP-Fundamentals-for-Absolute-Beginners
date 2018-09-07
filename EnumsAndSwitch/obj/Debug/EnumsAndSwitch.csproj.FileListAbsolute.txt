@@ -1,0 +1,6 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb

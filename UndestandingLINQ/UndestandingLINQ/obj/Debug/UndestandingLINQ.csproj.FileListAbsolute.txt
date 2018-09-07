@@ -1,0 +1,6 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\UndestandingLINQ\UndestandingLINQ\bin\Debug\UndestandingLINQ.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\UndestandingLINQ\UndestandingLINQ\bin\Debug\UndestandingLINQ.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\UndestandingLINQ\UndestandingLINQ\bin\Debug\UndestandingLINQ.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\UndestandingLINQ\UndestandingLINQ\obj\Debug\UndestandingLINQ.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\UndestandingLINQ\UndestandingLINQ\obj\Debug\UndestandingLINQ.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\UndestandingLINQ\UndestandingLINQ\obj\Debug\UndestandingLINQ.pdb

@@ -1,0 +1,12 @@
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache

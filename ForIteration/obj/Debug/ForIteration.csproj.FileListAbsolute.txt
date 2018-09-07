@@ -1,0 +1,6 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\ForIteration\ForIteration\obj\Debug\ForIteration.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\ForIteration\ForIteration\obj\Debug\ForIteration.pdb

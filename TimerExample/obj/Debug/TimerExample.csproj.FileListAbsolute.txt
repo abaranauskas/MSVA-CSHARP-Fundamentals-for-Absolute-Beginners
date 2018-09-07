@@ -1,0 +1,6 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\TimerExample\TimerExample\bin\Debug\TimerExample.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\TimerExample\TimerExample\bin\Debug\TimerExample.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\TimerExample\TimerExample\bin\Debug\TimerExample.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\TimerExample\TimerExample\obj\Debug\TimerExample.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\TimerExample\TimerExample\obj\Debug\TimerExample.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\TimerExample\TimerExample\obj\Debug\TimerExample.pdb

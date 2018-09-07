@@ -1,0 +1,8 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\ScrapeClient\bin\Debug\Scrape.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\ScrapeClient\bin\Debug\Scrape.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.pdb

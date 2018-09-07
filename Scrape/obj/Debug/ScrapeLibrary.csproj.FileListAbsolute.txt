@@ -1,0 +1,4 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\Scrape\bin\Debug\Scrape.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\Scrape\bin\Debug\Scrape.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\Scrape\obj\Debug\Scrape.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\Lesson18\Scrape\obj\Debug\Scrape.pdb

@@ -1,0 +1,5 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\bin\Release\HandlingExeptions.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\bin\Release\HandlingExeptions.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\bin\Release\HandlingExeptions.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\obj\Release\HandlingExeptions.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\obj\Release\HandlingExeptions.pdb

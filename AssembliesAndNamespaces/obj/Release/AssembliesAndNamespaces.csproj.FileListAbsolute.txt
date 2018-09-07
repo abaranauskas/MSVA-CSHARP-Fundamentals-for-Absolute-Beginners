@@ -1,0 +1,6 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\AssembliesAndNamespaces.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\AssembliesAndNamespaces.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\AssembliesAndNamespaces.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\AssembliesAndNamespaces.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\AssembliesAndNamespaces.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\AssembliesAndNamespaces.csprojResolveAssemblyReference.cache

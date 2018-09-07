@@ -1,0 +1,6 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\bin\Debug\HandlingExeptions.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\bin\Debug\HandlingExeptions.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\bin\Debug\HandlingExeptions.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\obj\Debug\HandlingExeptions.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\obj\Debug\HandlingExeptions.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals for Absolute Beginners\HandlingExeptions\HandlingExeptions\obj\Debug\HandlingExeptions.pdb
